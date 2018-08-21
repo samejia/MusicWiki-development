@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicWiki</string>
+    <color name="app_name">@color/tw__composer_black</color>
+    <string name="guest">Guest</string>
+    <string name="search">Search</string>
+    <string name="checkin">checkin</string>
+    <string name="fav">fav</string>
+    <string name="share">share</string>
+</resources>
